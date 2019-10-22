@@ -1,11 +1,11 @@
-#_{Lucy's Blog}_
+#_Lucy's Blog_
 
-####_{HTML}, {October 21, 2019}_
+####_HTML, October 21, 2019_
 
-#### By _**{Lizzie Van Hook and Matt Swart}**_
+#### By _**Lizzie Van Hook and Matt Swart**_
 
 ## Description
- _{List of Lucy's favorite things.}_
+ _List of Lucy's favorite things._
 
 ## Setup/ Installation Requirements
 * _Find Repository on Github_
@@ -22,8 +22,8 @@ _Contact Matthew and Lizzie_
 
 ## Technologies used
 
-_{HTML and markdown}_
+_HTML and markdown_
 
 ### license
 
-*{no license}
+*no license*
