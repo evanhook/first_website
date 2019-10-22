@@ -1,6 +1,6 @@
-#_Lucy's Blog_
+# _Lucy's Blog_
 
-####_HTML, October 21, 2019_
+#### _HTML, October 21, 2019_
 
 #### By _**Lizzie Van Hook and Matt Swart**_
 
