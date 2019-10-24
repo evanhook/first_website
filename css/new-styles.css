@@ -20,3 +20,7 @@ p.author {
 .emphasis {
   font-weight: bold;
 }
+
+.sidebar {
+  float: right;
+}
