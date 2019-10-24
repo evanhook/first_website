@@ -26,6 +26,14 @@ p.author {
 }
 
 .column {
-  width: 100px;
-  float: right;
+  width: 300px;
+}
+
+.my-class {
+  border: 2px dashed pink;
+  padding: 4px;
+  margin: 12px;
+}
+.background {
+  background-color: #efdaf5;
 }
