@@ -22,5 +22,10 @@ p.author {
 }
 
 .sidebar {
+  width: 500px;
+}
+
+.column {
+  width: 100px;
   float: right;
 }
